@@ -1,0 +1,83 @@
+body{
+    background-color: white;
+    font-family: Arial;
+    height: 100%;
+
+}
+
+.top{
+    display: flex;
+    justify-content: end;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.barra{
+    display: flex;
+    justify-content: center;
+}
+
+.buscadores{
+    display: flex;
+    justify-content: center
+}
+.bus{
+    background-color: #f2f2f2;
+    padding: 5px;
+}
+
+.idiomadebarra{
+    display: flex;
+    justify-content: center;
+}
+
+.idioma{
+    color: blue;
+    padding-bottom: 10%;
+}
+
+
+.pais{
+    display: flex;
+    justify-content: left;
+    color: #70757a;
+    background-color: #f0f2f5;
+    font-size: 15px;
+    border: 0;
+    margin: 0;
+}
+
+.botiz{
+    display: flex;
+    color: #70757a;
+    background-color: #f0f2f5;
+    font-size: 15px;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.botder{
+    display: flex;
+    color: #70757a;
+    background-color: #f0f2f5;
+    font-size: 15px;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bot{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color:  #f0f2f5 ;
+    box-sizing: border-box;
+    
+}
